@@ -1,0 +1,60 @@
+Which of the following process scheduling algorithm may lead to starvation?
+A.FIFO
+B.Round Robin
+C.Shortest Job Next
+D.None of the above
+
+What is called when a function is defined inside a class?
+
+A.Module
+B.Class
+C.Another Function
+D.Method
+
+What does CSS stand for?
+A.Cascading Style Sheet
+B.Cute Style Sheet
+C.Computer Style Sheet
+D.Course Style Sheet
+
+Which one programming language is exclusively used for artificial intelligence?
+A.C
+B.Java
+C.J2EE
+D.Prolog
+Answer: D.Prolog
+
+Which of the following is not an operating system?
+A.C
+B.Mac
+C.DOS
+D.Linux
+Answer:A.C
+
+1024 bit is equal to how many byte?
+A.Byte
+B.128 Byte
+C.32 Byte
+D.64 Byte
+Answer:B.128 Byte
+
+How many layers in the TCP/IP protocol layers
+A.7
+B.5
+C.4
+D.11
+Answer: C.4
+
+What is the binary value of ‘A’
+A.01000100
+B.11000001
+C.01100001
+D.01000001
+Answer: D.01000001
+
+A folder in windows computer can’t be made with the name
+(a) can
+(b) con
+(c) mak
+(d) make
+Answer: (b) con
